@@ -13,3 +13,4 @@
 #### I gained a validation accuracy of 87.15 % without using any pretrained imagenet models . VGG-16 gave around 89 % as validation accuracy.
     
   
+  
